@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-require 'img2pdf/cli'
+require "img2pdf/cli"
 
 Img2pdf::CLI.start(ARGV)
