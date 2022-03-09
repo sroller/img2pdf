@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "git@github.com:sroller/img2pdf.git"
+  spec.metadata["source_code_uri"] = "https://github.com/sroller/img2pdf"
   spec.metadata["changelog_uri"] = "https://github.com/sroller/img2pdf/raw/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
@@ -33,6 +33,8 @@ Gem::Specification.new do |spec|
 
   # Uncomment to register a new dependency of your gem
   # spec.add_dependency "example-gem", "~> 1.0"
+  spec.add_dependency "thor"
+  spec.add_development_dependency "gem-release"
 
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html
