@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/img2pdf.svg)](https://badge.fury.io/rb/img2pdf)
 # Img2pdf
 
 This gem takes all jpg files in a directory and creates a pdf document from it.
@@ -41,4 +42,3 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the Img2pdf project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/img2pdf/blob/master/CODE_OF_CONDUCT.md).
-
