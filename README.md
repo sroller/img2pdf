@@ -1,6 +1,6 @@
 # Img2pdf
 
-This gem takes all *.jpg file in a directory and creates a pdf document from it.
+This gem takes all jpg files in a directory and creates a pdf document from it.
 The usecase is a directory with consecutive scanned images which should become a single document.
 It uses pdflatex to create the pdf and needs a working installation.
 
